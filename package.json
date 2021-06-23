@@ -11,5 +11,11 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "author": "gavmister"
+  "author": "gavmister",
+  "description": "Learning To Code",
+  "keywords": [
+    "worthwhile",
+    "freecodecamp",
+    "fun"
+  ]
 }
