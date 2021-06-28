@@ -399,4 +399,4 @@ shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
   express: ^4.17.1
-  moment: ^2.29.1
+  moment: ^2.10.2
